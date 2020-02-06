@@ -1,9 +1,13 @@
 #!/bin/sh
-
 echo Enter a Length of array
-read N
+read num
 n=$num
-for((i=0; i<$n; i++))
+declare -A a
+for((i=0; i<n; i++))
 do
-   
+read a[$i]
+done
+for((i=0; i<n; i++))
+do
+printf "$((a[$i])) "
 done
