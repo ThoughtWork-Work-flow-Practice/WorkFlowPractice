@@ -1,5 +1,4 @@
 #!/bin/sh
-
 declare -A arr[]
 echo Enter a Length of array
 read N
@@ -18,6 +17,8 @@ do
 			if(( $((arr[i]+arr[j]+arr[k]))==0 ))
 			then
 				echo $((arr[i])) $((arr[j])) $((arr[k]))
+			else
+				echo "No three elements adds to zero"
 			fi
 		done
 	done
