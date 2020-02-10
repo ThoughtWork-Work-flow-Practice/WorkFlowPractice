@@ -1,5 +1,4 @@
-hello!!
-<<<<<<< HEAD
+hello yooo!!
 Shraddha Singh=this line is my change.`
 I am jayant to mai kya krun.
 =======
@@ -7,5 +6,4 @@ Shivam Dewangan yesss = Head of Git respo!!
 =======
 yo rajat my name is
 
-Shraddha Singh=this line is my change.
 
