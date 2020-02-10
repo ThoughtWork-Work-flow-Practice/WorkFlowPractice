@@ -1,6 +1,3 @@
 hello!!
-<<<<<<< HEAD
-
 Shraddha Singh=this line is my change.`
-=======
 I am jayant
