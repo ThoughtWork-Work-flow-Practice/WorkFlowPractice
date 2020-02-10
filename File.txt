@@ -1,2 +1,11 @@
 Hello , Ankit
 hi 
+=======
+hello!!
+<<<<<<< HEAD
+Shraddha Singh=this line is my change.`
+I am jayant to mai kya krun.
+yo yo rajat my name is
+
+Shraddha Singh=this line is my change.
+
