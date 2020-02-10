@@ -1,3 +1,10 @@
 hello!!
+<<<<<<< HEAD
 Shraddha Singh=this line is my change.`
-I am jayant
+I am jayant.
+=======
+Shivam Dewangan yesss = Head of Git respo!!
+=======
+
+Shraddha Singh=this line is my change.
+
