@@ -1,8 +1,1 @@
-hii hello shivam,shraddha,jayant,ankit,rajat!!
-<<<<<<< HEAD
-hii i am Shreyaaaaaaa and i ate Daal Bati Yesterday!!
-
-
-=======
-ee ka ho rha hai bhaiyaaaa
->>>>>>> 7e8dfc0bab3b58501697cc26cc6027ce464bdf3b
+Jai Shree Krishna!!
