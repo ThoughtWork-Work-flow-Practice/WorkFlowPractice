@@ -1,13 +1,19 @@
+Shivam Dewangan = Head of Git respo!! o bhaiyyyyyyaaaaaa!!!!
+=======:
+Shraddha Singh=this line is my change.
+shraddha singh This is the second chenge
+=======
+=======
 hii shivam,shraddha,jayant,ankit,rajat!!
 Bahiyyyaaaa Git Sekkh Lo Bhaiya Merge Krna Bhaiyaa
 Shivam Dewangan = Head of Git respo!!
 Shraddha Singh=this line is my change.
 shraddha singh This is the second chenge
+>>>>>>> 595ae2b38a30735006de6943a4b7f0967c1ee825
 Hello , Ankit Bol rahe hai.
 hi 
 =======
 hello!!
-<<<<<<< HEAD
 Shraddha Singh=this line is my change.
 I am jayant to mai kya krun.
 yo yo rajat my name is
