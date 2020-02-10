@@ -1,6 +1,27 @@
 yooo magga
+<<<<<<< HEAD
+Shivam Dewangan = Head of Git respo!!
+=======:
+Shraddha Singh=this line is my change.
+shraddha singh This is the second chenge
+=======
+<<<<<<< HEAD
+Hello , Ankit Bol rahe hai.
+hi 
+=======
+hello!!
+<<<<<<< HEAD
+Shraddha Singh=this line is my change.
+I am jayant to mai kya krun.
+yo yo rajat my name is
+
+Shraddha Singh=this line is my change.
+=======
+=======
+
+>>>>>>> fa6e94fbcd83a15dbb25ceee00c4431d8ed56083
+>>>>>>> 9812454613a1c5c9fae8435e113e43353f15af60
 hello shivam,shraddha,jayant,ankit,rajat!!
 Shivam = Head of Git respo!!
 Yoo honey Singh
 Shraddha =this line is my change.
-
